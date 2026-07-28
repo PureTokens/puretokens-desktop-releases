@@ -1,0 +1,17 @@
+# Pure Tokens Desktop Releases
+
+This public repository is the official distribution surface for the proprietary
+Pure Tokens desktop client.
+
+- Official download page: <https://puretokensx.com/switch>
+- Installer and updater artifacts: [GitHub Releases](https://github.com/yanyansay/puretokens-desktop-releases/releases)
+- Stable updater manifest: `stable/latest.json`
+- Internal prerelease updater manifest: `beta/latest.json`
+
+The application source code is not published in this repository. Update bundles
+are verified by the Tauri updater public key committed in
+`updater-public-key.txt`. The matching private key is held outside GitHub and is
+never uploaded to this repository.
+
+No installer is considered available until its release asset, `.sig` file,
+SHA-256 checksum, and matching manifest entry have all been published.
