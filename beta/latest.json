@@ -1,0 +1,26 @@
+{
+  "schema_version": 1,
+  "product": "Pure Tokens",
+  "version": "0.1.0-beta.1",
+  "channel": "beta",
+  "notes": "Pure Tokens v0.1.0-beta.1",
+  "pub_date": "2026-07-29T01:09:08.442Z",
+  "min_supported_version": "0.1.0-beta.1",
+  "mandatory": false,
+  "notes_url": "https://raw.githubusercontent.com/yanyansay/puretokens-desktop-releases/main/notes/0.1.0-beta.1.zh-CN.md",
+  "downloads": {
+    "macosApple": {
+      "url": "https://github.com/yanyansay/puretokens-desktop-releases/releases/download/v0.1.0-beta.1/Pure%20Tokens_0.1.0-beta.1_aarch64.dmg",
+      "sha256": "82a376defa778c0e2ae71837d83b822fb6f5a0a536779d35b668c54c6d2f3fb9",
+      "size": 11444061
+    }
+  },
+  "platforms": {
+    "darwin-aarch64": {
+      "url": "https://github.com/yanyansay/puretokens-desktop-releases/releases/download/v0.1.0-beta.1/Pure%20Tokens.app.tar.gz",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUTkFzQ3kvUUY0QkF0M0RmbEI3ZU9hRkN1YmJWYnJFemVDbTBnT2I4VzQ4MHBseW5qaVhWYTJuelhUdHh4QUxqemE4aUlOQ1pEYksrWFpEZEZzUW04amYwa1F4OExKdWdBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg1Mjg3MzI4CWZpbGU6UHVyZSBUb2tlbnMuYXBwLnRhci5negpKN0lDWDVhSU1ockIwTzRXOHJNbFNxaHc2OG5xWTFtLytxU2ZGak4vYWszMWxpUlBZUXlRT2toWVE1YjBTcWxab08xdWJHMFJNZGNvd2ExQmNHMHpCZz09Cg==",
+      "sha256": "891614312a153516de51e248ab863e05f77430d7a01886e40d1355fe8f3f11a2",
+      "size": 11049133
+    }
+  }
+}
