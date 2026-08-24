@@ -12,7 +12,11 @@
     "platform_trust": "unsigned-unnotarized",
     "updater_trust": "tauri-detached-signature"
   },
-  "notes_url": "https://raw.githubusercontent.com/PureTokens/puretokens-desktop-releases/main/notes/0.1.11.zh-CN.md",
+  "notes_url": "https://raw.githubusercontent.com/PureTokens/puretokens-desktop-releases/main/notes/0.1.11.en-US.md",
+  "notes_urls": {
+    "en-US": "https://raw.githubusercontent.com/PureTokens/puretokens-desktop-releases/main/notes/0.1.11.en-US.md",
+    "zh-CN": "https://raw.githubusercontent.com/PureTokens/puretokens-desktop-releases/main/notes/0.1.11.zh-CN.md"
+  },
   "downloads": {
     "macosApple": {
       "url": "https://github.com/PureTokens/puretokens-desktop-releases/releases/download/v0.1.11/Pure.Tokens_0.1.11_aarch64.dmg",
