@@ -1,0 +1,56 @@
+{
+  "schema_version": 1,
+  "product": "Pure Tokens",
+  "version": "0.2.8",
+  "channel": "stable",
+  "notes": "More reliable updates and a clearer community browsing experience.",
+  "pub_date": "2026-09-03T06:27:05.257Z",
+  "min_supported_version": "0.2.8",
+  "mandatory": false,
+  "distribution": {
+    "mode": "community",
+    "platform_trust": "unsigned-unnotarized",
+    "updater_trust": "tauri-detached-signature"
+  },
+  "notes_urls": {
+    "en-US": "https://raw.githubusercontent.com/PureTokens/puretokens-desktop-releases/main/notes/0.2.8.en-US.md",
+    "zh-CN": "https://raw.githubusercontent.com/PureTokens/puretokens-desktop-releases/main/notes/0.2.8.zh-CN.md"
+  },
+  "downloads": {
+    "macosApple": {
+      "url": "https://github.com/PureTokens/puretokens-desktop-releases/releases/download/v0.2.8/Pure.Tokens_0.2.8_aarch64.dmg",
+      "sha256": "576c8ce65f130621e1be6a6473360c8866560ee31bc9ab8fc6bdc233dcf5e5f3",
+      "size": 11501740
+    },
+    "windows": {
+      "url": "https://github.com/PureTokens/puretokens-desktop-releases/releases/download/v0.2.8/Pure.Tokens_0.2.8_x64-setup.exe",
+      "sha256": "9327e31c734b9aa63259f76f55e047607463b60bd9b3df568b5862672393cbec",
+      "size": 9326485
+    },
+    "macosIntel": {
+      "url": "https://github.com/PureTokens/puretokens-desktop-releases/releases/download/v0.2.8/Pure.Tokens_0.2.8_x64.dmg",
+      "sha256": "ef57d58c9f38a2b5fd5319d7840b0458c7606a2d6449b239cc32c53547cf281e",
+      "size": 12054539
+    }
+  },
+  "platforms": {
+    "darwin-aarch64": {
+      "url": "https://github.com/PureTokens/puretokens-desktop-releases/releases/download/v0.2.8/Pure.Tokens_aarch64.app.tar.gz",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTTk82MkhLV0VxdGhnRCtCTWkvZmhyQmFYb01Bc1ZYelJzaDY4MkptaVZMVWhhcVFxTUxFYmU3NXpaMU1UbnZidnZjNmdvQlB6U3FzMVByUXlzUG5rTkZPVENHMEJ6b2cwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg4NDE1OTAyCWZpbGU6UHVyZSBUb2tlbnMuYXBwLnRhci5negpRRFNvdHFMVlNFcjNXQmp1b280QUhSK2xIR2RuZmhvWVpFMFYrWHdiTmhUYVF6WkxkYkh4cHFKbE9yQno1Q1ZLTFlHcUdyanZqZXNjeko3eGhRZktEdz09Cg==",
+      "sha256": "4849542e7483b3bd6fd91c061f60da8d3d363eac62e2a44f66232f5532190bab",
+      "size": 11083601
+    },
+    "windows-x86_64": {
+      "url": "https://github.com/PureTokens/puretokens-desktop-releases/releases/download/v0.2.8/Pure.Tokens_0.2.8_x64-setup.exe",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTTk82MkhLV0VxdGtnVjBRM1FtekxleTZuTnBJNW5SWnRKSUdJVnN2T3RQSGtjSUZ4ODRLMDJJRnlFYmtrV3kxbVBGNCtFSUZ2LytTTnFhTXRkZjc3YUk2QzFRSWY3SmdVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg4NDE2Njg3CWZpbGU6UHVyZSBUb2tlbnNfMC4yLjhfeDY0LXNldHVwLmV4ZQpSUGpoWlM0YmRKcFYyZW5LMTRKSU9NQzJyTUdTaS9hYlNuQ2tqQ2ZuZmZBQjlsR0g2bHZaWjFFVXo3UCsrclNtaWNpVWdSMURCWmQ1ZEk4bU45K3pEdz09Cg==",
+      "sha256": "9327e31c734b9aa63259f76f55e047607463b60bd9b3df568b5862672393cbec",
+      "size": 9326485
+    },
+    "darwin-x86_64": {
+      "url": "https://github.com/PureTokens/puretokens-desktop-releases/releases/download/v0.2.8/Pure.Tokens_x64.app.tar.gz",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTTk82MkhLV0VxdGpINlBFWnZ4dFRqa1dFWEhGdzl6aWxKSjZ4bFNDem1GSFpIWTZWTUJzMVF0VThNOThYMURFVjVrZitXejNhY2ZOdmJoQnFSSG5kd2h3Sk5YNkFSc1FVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg4NDE2MDE5CWZpbGU6UHVyZSBUb2tlbnMuYXBwLnRhci5nego0U3psdE9qTGdkamw4Y3lmQncwZURDd284M29uWitiZEdKeTdaVmVzOWlQdE9kejROWkJrcmRRS3d2cDFZOTJBUE9yeS83Y3ZNcUtGSkFuR3dOOGFDZz09Cg==",
+      "sha256": "e59fba7f6f456dee7ca8058d90edd3e03863d71db24592db1ef33b0538f32a9c",
+      "size": 11584059
+    }
+  }
+}
